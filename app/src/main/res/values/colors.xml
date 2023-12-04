@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lav">#B197BC</color>
+    <color name="deep_lav">#7A4E8C</color>
+    <color name="light_lav">#CDBFD3</color>
 </resources>
